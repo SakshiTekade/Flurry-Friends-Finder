@@ -1,0 +1,1 @@
+The plant nutrient detection system using machine learning and image processing works on utilising the Convolutional neural network to analyse the images of plant leaves and identify nutrient deficiency. It help to detect NPK
